@@ -13,8 +13,11 @@ to a univariate bisection method. At last, our simulation results highlight the 
 * Install Matlab
 * Run main.m
 
-## References
+## Reference
 H. El Hassani, A. Savard and E. Veronica Belmega, "A closed-form solution for energy-efficiency optimization in multi-user downlink NOMA," 2020 IEEE 31st Annual International Symposium on Personal, Indoor and Mobile Radio Communications, 2020, pp. 1-5, doi: 10.1109/PIMRC48278.2020.9217069.
+
+## Link to the paper
+https://hal.archives-ouvertes.fr/hal-02898928/document
 
 ## Contact
 hajar.el-hassani@ensea.fr or hajar.elhassani93@gmail.com
