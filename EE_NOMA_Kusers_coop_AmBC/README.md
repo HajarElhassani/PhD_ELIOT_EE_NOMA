@@ -11,6 +11,8 @@ In this paper, the energy efficiency of multi-user non orthogonal multiple acces
 ## Reference
 H. E. Hassani, A. Savard, E. V. Belmega and R. C. De Lamare, "Energy-Efficient Cooperative Backscattering Closed-Form Solution for NOMA," 2021 IEEE Global Communications Conference (GLOBECOM), 2021, pp. 1-6, doi: 10.1109/GLOBECOM46510.2021.9685176.
 
+If you find this useful, don't forget to cite this work :)
+
 ## Link paper
 https://hal.archives-ouvertes.fr/hal-03343731/document
 
