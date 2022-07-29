@@ -17,4 +17,4 @@ If you find this useful, don't forget to cite this work :)
 https://hal.archives-ouvertes.fr/hal-03343731/document
 
 ## Contact
-Please contact hajar.el-hassani@ensea.fr or hajar.el-hassani@gmail.com
+Please contact hajar.el-hassani@ensea.fr or hajar.elhassani93@gmail.com
