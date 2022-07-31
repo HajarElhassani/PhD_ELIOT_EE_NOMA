@@ -3,7 +3,7 @@ close all;
 clc;
 
 %% Parameter initialization
-N=1e3; % number of parallel runs for the average regret
+N=1e2; % number of parallel runs for the average regret
 T=1e4; % number of iterations/training steps per run
 
 % SNR thresholds (not rate thresholds)
@@ -22,10 +22,10 @@ arms1=[1 0.125;1 0.25;1 0.375;2 0.125;2 0.25;2 0.375];
 arms2=[1 0.0625;1 0.125;1 0.1875;1 0.25;1 0.3125;1 0.375;1 0.4375;2 0.0625;2 0.125;2 0.1875;2 0.25;2 0.3125;2 0.375;2 0.4375];
 arms3=[1 0.03125;1 0.0625;1 0.09375;1 0.125;1 0.15625;1 0.1875;1 0.21875;1 0.25;1 0.28125;1 0.3125;1 0.34375;1 0.375;1 0.40625;1 0.4375;1 0.46875;2 0.03125;2 0.0625;2 0.09375;2 0.125;2 0.15625;2 0.1875;2 0.21875;2 0.25;2 0.28125;2 0.3125;2 0.34375;2 0.375;2 0.40625;2 0.4375;2 0.46875];
 % number of arms ion each arm set
-a0=2;
-a1=6;
-a2=14;
-a3=30;
+a0=length(arms0);
+a1=length(arms1);
+a2=length(arms2);
+a3=length(arms3);
 
 %varying the SNR threshold of user 2
 threshold2_NOMA=(1:20);
@@ -136,8 +136,6 @@ end
 
 
 %% plotting figures
-
-%iterations
 figure(1)
 semilogy(threshold2_NOMA,mean_iteration3,'-o','MarkerSize',7,'LineWidth',1.3,'MarkerIndices',1:2:length(threshold2_NOMA));
 hold on;
