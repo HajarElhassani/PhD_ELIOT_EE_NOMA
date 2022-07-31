@@ -19,5 +19,7 @@ H. El Hassani, A. Savard and E. Veronica Belmega, "A closed-form solution for en
 ## Link to the paper
 https://hal.archives-ouvertes.fr/hal-02898928/document
 
+If you find this useful, don't forget to cite this work :)
+
 ## Contact
 hajar.el-hassani@ensea.fr or hajar.elhassani93@gmail.com
