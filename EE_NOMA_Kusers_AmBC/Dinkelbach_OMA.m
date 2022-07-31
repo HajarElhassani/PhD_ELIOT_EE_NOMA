@@ -5,6 +5,7 @@
 %                 A -V A=2^(2*Rmin) the SNR threshold
 %                 Pmax -> maximum power budget 
 %                 Pc -> circuit power (Pc)
+%                 q -> the probability of backscattering (B=1)
 % ouput:         alpha -> global energy efficiency (alpha)
 
 
