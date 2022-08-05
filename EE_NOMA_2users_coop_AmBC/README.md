@@ -9,6 +9,8 @@ In this paper, the energy efficiency of a two-user downlink NOMA system aided by
 
 ## Reference
 
+H. El Hassani, A. Savard, E.V. Belmega, and R. C. de Lamare, "Energy-Efficient Solutions in Two-user Downlink NOMA Systems Aided by Ambient Backscattering", accepted paper at IEEE GLOBECOM, Rio de Janeiro, Brazil, Dec. 2022.
+
 ## Link paper
 
 ## Contact
